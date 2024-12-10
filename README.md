@@ -17,3 +17,9 @@ Aspiring Data Analyst with a passion for leveraging data to solve complex proble
 - Programming: Python, SQL, R
 - Data Visualization: Tableau, Power BI, Matplotlib
 - Tools: Jupyter Notebook, Excel, Google Analytics
+
+- ## Next Steps
+- Enhance my skills in advanced machine learning techniques like Random Forest and Neural Networks.
+- Develop an end-to-end data pipeline project using Python and SQL for real-time analytics.
+- Explore deeper integrations with Tableau's API for custom visualization development.
+
